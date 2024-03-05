@@ -1,0 +1,247 @@
+{
+    "controlPoints": [
+        {
+            "x": 29,
+            "y": 463,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 26,
+            "y": 542,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 17,
+            "y": 609,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 44.93333333333333,
+            "y": 673,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 130,
+            "y": 631,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 243,
+            "y": 537,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 301,
+            "y": 410,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 305,
+            "y": 281,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 232,
+            "y": 134,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 216,
+            "y": 87,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 201,
+            "y": 40,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 236,
+            "y": 19,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 297,
+            "y": 29,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 396,
+            "y": 155,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 447,
+            "y": 332,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 520,
+            "y": 513,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 575,
+            "y": 620,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 649,
+            "y": 646,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 718.9333333333333,
+            "y": 673,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 763.8666666666666,
+            "y": 673,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 808.8,
+            "y": 673,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 939,
+            "y": 615,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1056,
+            "y": 582,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1137,
+            "y": 527,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1183,
+            "y": 414,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1200,
+            "y": 312,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1213,
+            "y": 184,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1165,
+            "y": 87,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1020,
+            "y": 50,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 776,
+            "y": 115,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 720,
+            "y": 292,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 864,
+            "y": 434,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1005,
+            "y": 436,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        },
+        {
+            "x": 1036,
+            "y": 337,
+            "diameter": 15,
+            "color": "red",
+            "isSelected": false
+        }
+    ],
+
+    "speed": -0.002,
+    "verbose": false,
+    "showConsecutiveLines": false,
+    "updateControlPoints": false
+}

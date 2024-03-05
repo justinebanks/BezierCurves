@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bezier Curve Simulation</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <canvas id="cnvs"></canvas>
+
+
+        <div class="controls">
+            <h2>Edit Bezier Curves</h2>
+            <button onclick="addControlPoint('start')">Add Point to Start</button>
+            <button onclick="addControlPoint('end')">Add Point to End</button>
+            <button onclick="toggleVerbose()">Toggle Verbose</button>
+            <button onclick="toggleConsecutiveLines()">Toggle Consecutive Lines</button>
+            <button onclick="toggleControlPoints()">Toggle Control Point Visibility</button>
+            <button onclick="addNewCurve()">Add New Bezier Curve</button>
+
+            <h2>Reset Program</h2>
+            <input id="pointCount" placeholder="Number of Points" type="number" min="3" max="99">
+            <button onclick="resetProgram()">Reset</button>
+
+            <h2>Save Bezier Curve</h2>
+            <button onclick="saveCurve()">Save</button>
+            <button onclick="loadCurve()">Load</button>
+        </div>
+
+        <button class="remove" onclick="toggleControls('x')">X</button>
+        <button class="add" onclick="toggleControls('+')">+</button>
+
+        <script src="variables.js"></script>
+        <script src="bezier_curves.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
